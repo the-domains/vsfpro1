@@ -1,0 +1,28 @@
+name: VSFPRO1
+favicon: null
+layout_spectrum: 0.9641936207190156
+typography_spectrum: 0.4228190139401704
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.453591285739094
+  lightness: 0.21355829993262887
+  saturation: 0.37274777540005744
+  rhythmicContrast: 0.5915954785887152
+purpose: []
