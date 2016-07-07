@@ -4,20 +4,20 @@
         <description><![CDATA[VSFPRO1]]></description>
         <link>https://thegrid.ai/vsfpro1/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jun 2016 22:54:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2016 18:34:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vsfpro1/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://thegrid.ai/vsfpro1/a9b5f2e8-5de2-4637-99ab-93bb6310bfa8/index.html</link>
-            <guid isPermaLink="false">a9b5f2e8-5de2-4637-99ab-93bb6310bfa8</guid>
-            <pubDate>Wed, 29 Jun 2016 22:54:51 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[​​WhyVITAL SALESFORCE?]]></title>
             <description><![CDATA[<article><h1>​​WhyVITAL SALESFORCE?</h1><p>​</p></article>]]></description>
             <link>https://thegrid.ai/vsfpro1/whyvital-salesforce/index.html</link>
             <guid isPermaLink="false">ac4bcc3e-474a-4349-8ddc-d3c7d4711cb5</guid>
-            <pubDate>Wed, 29 Jun 2016 22:53:26 GMT</pubDate>
+            <pubDate>Thu, 07 Jul 2016 18:33:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/vsfpro1/a9b5f2e8-5de2-4637-99ab-93bb6310bfa8/index.html</link>
+            <guid isPermaLink="false">a9b5f2e8-5de2-4637-99ab-93bb6310bfa8</guid>
+            <pubDate>Wed, 29 Jun 2016 22:54:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
