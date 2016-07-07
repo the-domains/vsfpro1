@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ​
-datePublished: '2016-06-29T22:53:26.665Z'
-dateModified: '2016-06-29T22:53:26.298Z'
+datePublished: '2016-07-07T18:33:58.474Z'
+dateModified: '2016-07-07T18:33:50.909Z'
 title: ​​WhyVITAL SALESFORCE?
 author: []
+sourcePath: _posts/2016-06-29-whyvital-salesforce.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-29-whyvital-salesforce.md
 url: whyvital-salesforce/index.html
 _type: Article
 
@@ -42,3 +42,4 @@ We KNOW retail sales and operations
 * To be an extension of your company, while managing your day to day sales and operational needs
 * Grow your business seemlessly through a cost effective varible model that supports scale while not burdening your cash flow
 * Represent your programs and services with the same level of importance as if you were in the trenches
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f02e26c-8619-455e-91ea-11388f74e40c.png)
